@@ -2,12 +2,46 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 0%;
     box-sizing: border-box;
-    background-color: bisque;
+    background-color: rgb(241, 234, 234);
+    margin: 10px;%;;
 }
 header{
-    background-color: gray;
-    position:relative;
-}
-h1 {
+    background-color: rgb(179, 180, 166);
+    border-radius: 8%;
+    width: 600px;
     margin: auto;
+    
+}
+header h1 {
+    width: 600px;
+    margin: 0%;
+    margin: auto; 
+    font-family: cursive; 
+}
+article{
+    
+    width: 600px;
+    margin: auto;
+    
+}
+.Cuadro1{
+   margin: 0%; 
+   margin: auto;
+   display: flex;
+   justify-content: space-between;
+   color: rgb(138, 138, 135);
+   align-items: center;
+}
+.piedepag1 p {
+    margin: 0%;
+    padding: 3%;
+}
+.imag1{
+    width: 600px; height: 480;
+    border-radius: 3%;
+}
+.text1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:justify;
+    color: rgb(18, 20, 19);
 }
